@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">LEDControl</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_solid">Solid</string>
+    <string name="title_palette">Palette</string>
+    <string name="title_rainbow">Rainbow</string>
+    <string name="title_fire">Fire</string>
+    <string name="label_brightness">Brightness</string>
 </resources>
